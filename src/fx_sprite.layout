@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="fxSprite.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="12" topLine="102" />
+	</File>
+	<File name="fxSprite.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="289" topLine="0" />
+	</File>
+	<File name="./fxTransform.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="5699" topLine="139" />
+	</File>
+	<File name="./fxTransform.hpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fxTransformable.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="6109" topLine="194" />
+	</File>
+	<File name="fxTransformable.hpp" open="1" top="0" tabpos="1">
+		<Cursor position="335" topLine="27" />
+	</File>
+</CodeBlocks_layout_file>

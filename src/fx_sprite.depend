@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1348475639 source:/home/zidane/Projects/fx_sprite/main.cpp
+	<SFML/Graphics.hpp>
+
+1348549412 source:/home/zidane/Projects/fx_sprite/fxTransform.cpp
+	"fxTransform.hpp"
+	<cmath>
+
+1348492782 /home/zidane/Projects/fx_sprite/fxTransform.hpp
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1348543724 source:/home/zidane/Projects/fx_sprite/fxTransformable.cpp
+	"fxTransformable.hpp"
+	<cmath>
+
+1348535849 /home/zidane/Projects/fx_sprite/fxTransformable.hpp
+	"fxTransform.hpp"
+
+1348539473 source:/home/zidane/Projects/fx_sprite/fxSprite.cpp
+	"fxSprite.hpp"
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<cmath>
+
+1348539482 /home/zidane/Projects/fx_sprite/fxSprite.hpp
+	<SFML/Graphics/Drawable.hpp>
+	"fxTransformable.hpp"
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
